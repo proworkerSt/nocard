@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/cagtc/pay/job/Activator.java=UTF-8
+encoding//src/cagtc/pay/job/constant/Constant.java=UTF-8
+encoding//src/cagtc/pay/job/constant/RetCode.java=UTF-8
+encoding//src/cagtc/pay/job/exception/JobException.java=UTF-8
+encoding//src/cagtc/pay/job/service/IJobService.java=UTF-8
+encoding//src/cagtc/pay/job/service/impl/JobService.java=UTF-8
+encoding//src/cagtc/pay/job/startup/JobStartup.java=UTF-8
+encoding//src/cagtc/pay/job/support/job/JobManage.java=UTF-8
+encoding//src/cagtc/pay/job/support/job/MyJobDetail.java=UTF-8
+encoding//src/cagtc/pay/job/support/job/QuartzManage.java=UTF-8
+encoding//src/cagtc/pay/job/support/job/TriggerJob.java=UTF-8
+encoding//src/cagtc/pay/job/utils/HttpClientUtil.java=UTF-8
+encoding//src/cagtc/pay/job/utils/UUIDUtil.java=UTF-8
+encoding/<project>=UTF-8
